@@ -1,9 +1,9 @@
 <div align="center">
 
-  # 👨‍💼 [ชื่อ - นามสกุล ของคุณ]
+  # 👨‍💼 [อลิชา  ใจหวัง]
   ### **[ตำแหน่งงานของคุณ เช่น: Senior Full Stack Developer / Data Scientist]**
 
-  [📍 จังหวัด/เมือง, ประเทศ] • [📞 +66 XX XXX XXXX] • [✉️ your.email@email.com](mailto:your.email@email.com)
+  [📍จังหวัดกระบี่ ประเทศไทย] • [📞 +66 XX XXX XXXX] • [✉️ 68219010019@kbtc.ac.th](mailto:68219010019@kbtc.ac.th)
 
   <!-- Contact Badges -->
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -17,7 +17,7 @@
 ## 📌 สรุปประวัติส่วนตัว (Professional Summary)
 
 <blockquote>
-นักพัฒนาระบบผู้มีความเชี่ยวชาญและประสบการณ์มากกว่า <b>X ปี</b> ในการพัฒนา Web Application ระดับองค์กร มีความถนัดในการออกแบบ System Architecture และเน้นการเขียนโค้ดที่อ่านง่าย ขยายต่อได้ง่าย (Clean & Scalable Code) มุ่งมั่นที่จะใช้เทคโนโลยีเพื่อสร้างโซลูชันที่ตอบโจทย์ธุรกิจ
+ศึกศาอยู่ที่วิทยาลัยเทคนิคกระบี่
 </blockquote>
 
 ---
@@ -60,60 +60,9 @@
   </tr>
 </table>
 
----
 
-## 💼 ประวัติการทำงาน (Work Experience)
 
-### 🔹 **[ชื่อตำแหน่งงานล่าสุด]** | [ชื่อบริษัท / องค์กร]
-*🗓️ มกราคม 2024 – ปัจจุบัน | 📍 กรุงเทพมหานคร, ไทย*
-* 🚀 **ปรับปรุงประสิทธิภาพระบบ:** ออกแบบและพัฒนาระบบ Core API ใหม่ ช่วยลด Response Time ลงได้ **35%**
-* 👥 **การทำงานเป็นทีม:** นำทีมวิศวกรซอฟต์แวร์ 5 คนในการส่งมอบโปรเจกต์ระดับ Enterprise ได้ทันตามกำหนด
-* 🛠️ **Tech Stack:** `React` `Node.js` `PostgreSQL` `Docker` `AWS`
 
-<br/>
-
-### 🔹 **[ชื่อตำแหน่งงานก่อนหน้า]** | [ชื่อบริษัท / องค์กร]
-*🗓️ มกราคม 2022 – ธันวาคม 2023 | 📍 กรุงเทพมหานคร, ไทย*
-* ⚙️ **พัฒนาฟีเจอร์ใหม่:** พัฒนาฟีเจอร์ระบบชำระเงินที่รองรับผู้ใช้งานมากกว่า 50,000 คนต่อวัน
-* 🛡️ **ความปลอดภัย:** ปรับปรุงโครงสร้างความปลอดภัยของฐานข้อมูลและลดอัตราเกิด System Downtime
-* 🛠️ **Tech Stack:** `TypeScript` `Express` `MongoDB`
-
----
-
-## 🎓 ประวัติการศึกษา (Education)
-
-* 🎓 **ปริญญาตรี [สาขาวิชา เช่น วิทยาการคอมพิวเตอร์]**  
-  *[ชื่อมหาวิทยาลัย / สถาบัน]* | *(ปี ค.ศ. 2018 – 2022)*  
-  * **เกรดเฉลี่ย (GPA):** 3.XX / 4.00  
-  * **เกียรตินิยม:** เกียรตินิยมอันดับ 1 (ถ้ามี)
-
----
-
-## 🚀 ผลงานและโปรเจกต์โดดเด่น (Featured Projects)
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌐 <a href="https://github.com/yourusername/project-1">Project Name 1</a></h3>
-      <p>คำอธิบายสั้นๆ เกี่ยวกับโปรเจกต์ว่าทำอะไร แก้ปัญหาอะไร และมีจุดเด่นอย่างไรบ้าง</p>
-      <p><b>Tech Stack:</b> <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code></p>
-    </td>
-    <td width="50%">
-      <h3>📱 <a href="https://github.com/yourusername/project-2">Project Name 2</a></h3>
-      <p>คำอธิบายสั้นๆ เกี่ยวกับโปรเจกต์ระบบหรือแอปพลิเคชันที่น่าสนใจ</p>
-      <p><b>Tech Stack:</b> <code>Python</code> <code>FastAPI</code> <code>Docker</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📜 ใบรับรองและรางวัล (Certifications & Awards)
-
-* 🏅 **[ชื่อใบรับรอง เช่น AWS Certified Solutions Architect]** – *ออกโดย [AWS]* (2025)
-* 📜 **[ชื่อใบรับรอง หรือ รางวัลแข่ง Hackathon]** – *ออกโดย [ชื่อสถาบัน/องค์กร]* (2024)
-
----
 
 <div align="center">
 
