@@ -1,7 +1,6 @@
 <div align="center">
 
   # 👨‍💼 [อลิชา  ใจหวัง]
-  ### **[ตำแหน่งงานของคุณ เช่น: Senior Full Stack Developer / Data Scientist]**
 
   [📍จังหวัดกระบี่ ประเทศไทย] • [📞 +66 XX XXX XXXX] • [✉️ 68219010019@kbtc.ac.th](mailto:68219010019@kbtc.ac.th)
 
@@ -36,23 +35,6 @@
   </tr>
   <tr>
     <td><b>Frameworks & Libs</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cloud & DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
     <td><b>Languages (ภาษา)</b></td>
     <td>
       <b>Thai:</b> Native &nbsp;|&nbsp; <b>English:</b> Professional Working Proficiency
